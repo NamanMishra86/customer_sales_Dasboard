@@ -89,3 +89,9 @@ Connect to a live SQL Server database for auto-refresh.
 Add predictive sales forecasting using Power BI AI visuals.
 
 Include a profitability heatmap for customer-level performance.
+
+
+
+ScreenShot /Demo
+show what the dasborad look like
+Example:
