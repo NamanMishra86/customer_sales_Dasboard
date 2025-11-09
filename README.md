@@ -94,4 +94,4 @@ Include a profitability heatmap for customer-level performance.
 
 ScreenShot /Demo
 show what the dasborad look like
-Example:
+Example:https://github.com/NamanMishra86/customer_sales_Dasboard/blob/main/Screenshot%202025-11-09%20234625.png
